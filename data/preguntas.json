@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "categoria": "Historia",
+        "pregunta": "¿En que año fue la caída del muro de Berlín?",
+        "respuestas": [
+            { "rta": "1987", "value": false },
+            { "rta": "1991", "value": false },
+            { "rta": "1989", "value": true },
+            { "rta": "1985", "value": false },
+            { "rta": "1982", "value": false }
+        ]
+    },
+    {
+        "id": 2,
+        "categoria": "Historia",
+        "pregunta": "¿En que año Colón descubrió America?",
+        "respuestas": [
+            { "rta": "1496", "value": false },
+            { "rta": "1492", "value": true },
+            { "rta": "1452", "value": false },
+            { "rta": "1476", "value": false },
+            { "rta": "1496", "value": false }
+        ]
+    },
+    {
+        "id": 3,
+        "categoria": "Historia",
+        "pregunta": "¿Cuál era la capital del Imperio Inca?",
+        "respuestas": [
+            { "rta": "Quito", "value": false },
+            { "rta": "Machu Picchu", "value": false },
+            { "rta": "Lima", "value": false },
+            { "rta": "Cuzco", "value": true },
+            { "rta": "Ayacucho", "value": false }
+        ]
+    },
+    {
+        "id": 4,
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "respuestas": [
+            { "rta": "Julio Cesar", "value": false },
+            { "rta": "Trajano", "value": false },
+            { "rta": "Cesar Augusto", "value": true },
+            { "rta": "Nerón", "value": false },
+            { "rta": "Calígula", "value": false }
+        ]
+    },
+    {
+        "id": 5,
+        "categoria": "Historia",
+        "pregunta": "¿Qué emperador romano legalizó el cristianismo y puso fin a la persecución de los cristianos?",
+        "respuestas": [
+            { "rta": "Nerón", "value": false },
+            { "rta": "Adriano", "value": false },
+            { "rta": "Nerva", "value": false },
+            { "rta": "Trajano", "value": true },
+            { "rta": "Constantino", "value": false }
+        ]
+    },
+    {
+        "id": 6,
+        "categoria": "Historia",
+        "pregunta": "¿Por qué condenó la iglesia a Galileo Galilei?",
+        "respuestas": [
+            { "rta": "Por decir que la Tierra era redonda", "value": false },
+            { "rta": "Por negar la existencia de Dios", "value": false },
+            { "rta": "Por decir que la Tierra giraba alrededor del sol", "value": true },
+            { "rta": "Por decir que la Tierra era el centro del universo", "value": false },
+            { "rta": "Por decir el sol giraba alrededor de la Tierra", "value": false }
+        ]
+    },
+    {
+        "id": 7,
+        "categoria": "Historia",
+        "pregunta": "¿En que isla murió Napoleón?",
+        "respuestas": [
+            { "rta": "Santa Elena", "value": true },
+            { "rta": "Cerdeña", "value": false },
+            { "rta": "Elba", "value": false },
+            { "rta": "Corcega", "value": false },
+            { "rta": "Malvinas", "value": false }
+        ]
+    },
+    {
+        "id": 8,
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llamó el primer Presidente de los Estados Unidos?",
+        "respuestas": [
+            { "rta": "John Adams", "value": false },
+            { "rta": "Abraham Lincoln", "value": false },
+            { "rta": "Thomas Jefferson", "value": false },
+            { "rta": "George Washington", "value": true },
+            { "rta": "Barack Obama", "value": false }
+        ]
+    },
+    {
+        "id": 9,
+        "categoria": "Historia",
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "respuestas": [
+            { "rta": "505", "value": false },
+            { "rta": "456", "value": false },
+            { "rta": "476", "value": true },
+            { "rta": "501", "value": false },
+            { "rta": "496", "value": false }
+        ]
+    },
+    {
+        "id": 10,
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fué el primer metal empleado por el hombre?",
+        "respuestas": [
+            { "rta": "El oro", "value": false },
+            { "rta": "El hierro", "value": false },
+            { "rta": "El plomo", "value": false },
+            { "rta": "El uranio", "value": false },
+            { "rta": "El cobre", "value": true }
+        ]
+    },
+    {
+        "id": 11,
+        "categoria": "Historia",
+        "pregunta": "¿Qué hito informático de 1969 cambiaría radicalmente el curso de la historia de la humanidad?",
+        "respuestas": [
+            { "rta": "El iPod", "value": false },
+            { "rta": "Internet", "value": true },
+            { "rta": "El primer ordenador personal", "value": false },
+            { "rta": "El primer router wi-fi", "value": false },
+            { "rta": "La radio", "value": false }
+        ]
+    },
+    {
+        "id": 12,
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el nombre de la famosa batalla donde Napoleón Bonaparte fue derrotado?",
+        "respuestas": [
+            { "rta": "La batalla del Álamo", "value": false },
+            { "rta": "La batalla de Waterloo", "value": true },
+            { "rta": "La batalla de Roma", "value": false },
+            { "rta": "La batalla de Stalingrado", "value": false },
+            { "rta": "La batalla de Hastings", "value": false }
+        ]
+    },
+    {
+        "id": 13,
+        "categoria": "Historia",
+        "pregunta": "¿A través de qué río africano se alzó el antiguo Egipto?",
+        "respuestas": [
+            { "rta": "Amazonas", "value": false },
+            { "rta": "Tigris", "value": false },
+            { "rta": "Éufrates", "value": false },
+            { "rta": "Arbara", "value": false },
+            { "rta": "Nilo", "value": true }
+        ]
+    },
+    {
+        "id": 14,
+        "categoria": "Historia",
+        "pregunta": "¿Con qué nombre se conoce el escándalo que obligó al presidente estadounidense Richard Nixon a dimitir?",
+        "respuestas": [
+            { "rta": "Vietnam", "value": false },
+            { "rta": "Watergate", "value": true },
+            { "rta": "Bretix", "value": false },
+            { "rta": "Powergate", "value": false },
+            { "rta": "NixonProcess", "value": false }
+        ]
+    },
+    {
+        "id": 15,
+        "categoria": "Historia",
+        "pregunta": "¿Cuántas personas murieron durante el Gran Incendio de Londres de 1666 según los registros?",
+        "respuestas": [
+            { "rta": "6", "value": true },
+            { "rta": "60", "value": false },
+            { "rta": "600", "value": false },
+            { "rta": "6.000", "value": false },
+            { "rta": "60.000", "value": false }
+        ]
+    },
+    {
+        "id": 16,
+        "categoria": "Historia",
+        "pregunta": "¿A qué filósofo griego se atribuye la famosa obra “La República”?",
+        "respuestas": [
+            { "rta": "Platón", "value": true },
+            { "rta": "Empédocles", "value": false },
+            { "rta": "Sócrates", "value": false },
+            { "rta": "Aristóteles", "value": false },
+            { "rta": "Ptolomeo", "value": false }
+        ]
+    },
+    {
+        "id": 17,
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se disolvió la Unión Soviética?",
+        "respuestas": [
+            { "rta": "1981", "value": false },
+            { "rta": "1987", "value": false },
+            { "rta": "1899", "value": false },
+            { "rta": "1879", "value": false },
+            { "rta": "1991", "value": true }
+        ]
+    },
+    {
+        "id": 18,
+        "categoria": "Historia",
+        "pregunta": "¿Qué científico es considerado el Padre de la Bomba Atómica?",
+        "respuestas": [
+            { "rta": "Jonas Salk", "value": false },
+            { "rta": "Albert Einstein", "value": false },
+            { "rta": "Robert Oppenheimer", "value": true },
+            { "rta": "Leó Szilárd", "value": false },
+            { "rta": "Isaac Newton", "value": false }
+        ]
+    },
+    {
+        "id": 19,
+        "categoria": "Historia",
+        "pregunta": "¿Qué civilización prehispánica adoró al dios Kukulkán?",
+        "respuestas": [
+            { "rta": "Mayas", "value": true },
+            { "rta": "Incas", "value": false },
+            { "rta": "Aztecas", "value": false },
+            { "rta": "Griegos", "value": false },
+            { "rta": "Inuit", "value": false }
+        ]
+    },
+    {
+        "id": 20,
+        "categoria": "Historia",
+        "pregunta": "¿Qué facción dirigió MaoZedong durante la guerra civil China?",
+        "respuestas": [
+            { "rta": "Confederados", "value": false },
+            { "rta": "Protestantes", "value": false },
+            { "rta": "Capitalistas", "value": false },
+            { "rta": "Comunistas", "value": true },
+            { "rta": "Nacionalistas", "value": false }
+        ]
+    },
+    {
+        "id": 31,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el río más caudaloso del mundo?",
+        "respuestas": [
+            { "rta": "Congo", "value": false },
+            { "rta": "Paraná", "value": false },
+            { "rta": "Orinoco", "value": false },
+            { "rta": "Amazonas", "value": true },
+            { "rta": "Misisipi", "value": false }
+        ]
+    },
+    {
+        "id": 32,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el monte más alto del mundo?",
+        "respuestas": [
+            { "rta": "El Nanga Parbat", "value": false },
+            { "rta": "El monto Everest", "value": true },
+            { "rta": "El monte Cho Oyu", "value": false },
+            { "rta": "El Aconcagua", "value": false },
+            { "rta": "El monte Fuji", "value": false }
+        ]
+    },
+    {
+        "id": 33,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la lengua más hablada del mundo?",
+        "respuestas": [
+            { "rta": "Chino mandarín", "value": true },
+            { "rta": "Italiano", "value": false },
+            { "rta": "Inglés", "value": false },
+            { "rta": "Alemán", "value": false },
+            { "rta": "Español", "value": false }
+        ]
+    },
+    {
+        "id": 34,
+        "categoria": "Geografia",
+        "pregunta": "¿Cómo se llama la línea vertical imaginaria a partir del cual se miden las longitudes y que divide el mundo en dos mitades?",
+        "respuestas": [
+            { "rta": "Antimeridiano", "value": false },
+            { "rta": "Trópico de Capricornio", "value": false },
+            { "rta": "Meridiano de Greenwich", "value": true },
+            { "rta": "Círculo polar ártico", "value": false },
+            { "rta": "Ecuador", "value": false }
+        ]
+    },
+    {
+        "id": 35,
+        "categoria": "Geografia",
+        "pregunta": "¿Dónde podemos encontrar la Casa Rosada?",
+        "respuestas": [
+            { "rta": "Washington D.C., Estados Unidos", "value": false },
+            { "rta": "Barcelona, España", "value": false },
+            { "rta": "Bogotá, Colombia", "value": false },
+            { "rta": "Buenos Aires, Argentina", "value": true },
+            { "rta": "Madrid, España", "value": false }
+        ]
+    },
+    {
+        "id": 36,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la capital de Brasil?",
+        "respuestas": [
+            { "rta": "Brasilia", "value": true },
+            { "rta": "Río de Janeiro", "value": false },
+            { "rta": "Manaos", "value": false },
+            { "rta": "Porto Alegre", "value": false },
+            { "rta": "Natal", "value": false }
+        ]
+    },
+    {
+        "id": 37,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el país de mayor tamaño del mundo?",
+        "respuestas": [
+            { "rta": "Canadá", "value": false },
+            { "rta": "Rusia", "value": true },
+            { "rta": "Suiza", "value": false },
+            { "rta": "Australia", "value": false },
+            { "rta": "Brasil", "value": false }
+        ]
+    },
+    {
+        "id": 38,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
+        "respuestas": [
+            { "rta": "Tauranga", "value": false },
+            { "rta": "Nelson", "value": false },
+            { "rta": "Hamilton", "value": false },
+            { "rta": "Dunedin", "value": false },
+            { "rta": "Auckland", "value": true }
+        ]
+    },
+    {
+        "id": 39,
+        "categoria": "Geografia",
+        "pregunta": "¿Qué cordillera separa Europa de Asia?",
+        "respuestas": [
+            { "rta": "Cordillera de los Ándes", "value": false },
+            { "rta": "Montes Urales", "value": true },
+            { "rta": "Monte Mont Blanc", "value": false },
+            { "rta": "Aconcagua", "value": false },
+            { "rta": "Cordillera de Talamanca", "value": false }
+        ]
+    },
+    {
+        "id": 40,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la capital de Filipinas?",
+        "respuestas": [
+            { "rta": "Cebú", "value": false },
+            { "rta": "Zamboanga", "value": false },
+            { "rta": "Legazpia", "value": false },
+            { "rta": "Manila", "value": true },
+            { "rta": "Mariquina", "value": false }
+        ]
+    },
+    {
+        "id": 41,
+        "categoria": "Geografia",
+        "pregunta": "¿Además del alemán, el italiano y el francés, ¿qué otro idioma es hablado en ciertas regiones de Suiza?",
+        "respuestas": [
+            { "rta": "Inglés", "value": false },
+            { "rta": "Español", "value": false },
+            { "rta": "Romanche", "value": true },
+            { "rta": "Catalá", "value": false },
+            { "rta": "Ninguno de estos", "value": false }
+        ]
+    },
+    {
+        "id": 42,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el país europeo del que provienen las familias de la mayor parte de los habitantes de Argentina?",
+        "respuestas": [
+            { "rta": "España", "value": false },
+            { "rta": "Alemania", "value": false },
+            { "rta": "Suecia", "value": false },
+            { "rta": "Italia", "value": true },
+            { "rta": "Francia", "value": false }
+        ]
+    },
+    {
+        "id": 43,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la ciudad más poblada de África?",
+        "respuestas": [
+            { "rta": "Nairobi", "value": false },
+            { "rta": "El Cairo", "value": true },
+            { "rta": "Luanda", "value": false },
+            { "rta": "Dakar", "value": false },
+            { "rta": "Kinshasa", "value": false }
+        ]
+    },
+    {
+        "id": 44,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el nombre de la capital de Albania?",
+        "respuestas": [
+            { "rta": "Condado de Fier", "value": false },
+            { "rta": "Tirana", "value": true },
+            { "rta": "Ksamil", "value": false },
+            { "rta": "Theth", "value": false },
+            { "rta": "Districto de Berat", "value": false }
+        ]
+    },
+    {
+        "id": 45,
+        "categoria": "Geografia",
+        "pregunta": "¿Qué cordillera recorre el norte de Marruecos, Túnez y Argelia?",
+        "respuestas": [
+            { "rta": "La cordillera de los Ándes", "value": false },
+            { "rta": "Aconcagua", "value": false },
+            { "rta": "Sierras Madres", "value": false },
+            { "rta": "La cordillera del Atlas", "value": true },
+            { "rta": "Monte Fuji", "value": false }
+        ]
+    },
+    {
+        "id": 46,
+        "categoria": "Geografia",
+        "pregunta": "¿Qué montaña es uno de los símbolos nacionales de Armenia?",
+        "respuestas": [
+            { "rta": "Mount Armaghan", "value": false },
+            { "rta": "El monte Ararat", "value": true },
+            { "rta": "Aragats", "value": false },
+            { "rta": "Gutansar", "value": false },
+            { "rta": "Porak", "value": false }
+        ]
+    },
+    {
+        "id": 47,
+        "categoria": "Geografia",
+        "pregunta": "¿Entre qué países podemos encontrar el Estrecho de Bering?",
+        "respuestas": [
+            { "rta": "Argentina y Chile", "value": false },
+            { "rta": "Estados Unidos y México", "value": false },
+            { "rta": "España y Portugal", "value": false },
+            { "rta": "Estados Unidos y Rusia", "value": true },
+            { "rta": "Nueva Zelanda y Australia", "value": false }
+        ]
+    },
+    {
+        "id": 48,
+        "categoria": "Geografia",
+        "pregunta": "¿En qué país se habla mayoritariamente el idioma tagálog?",
+        "respuestas": [
+            { "rta": "Noruega", "value": false },
+            { "rta": "Filipinas", "value": true },
+            { "rta": "Suecia", "value": false },
+            { "rta": "Paises Bajos", "value": false },
+            { "rta": "Italia", "value": false }
+        ]
+    },
+    {
+        "id": 49,
+        "categoria": "Geografia",
+        "pregunta": "El país más poblado del mundo es...",
+        "respuestas": [
+            { "rta": "India", "value": false },
+            { "rta": "Indonesia", "value": false },
+            { "rta": "Noruega", "value": false },
+            { "rta": "Estados Unidos", "value": false },
+            { "rta": "China", "value": true }
+        ]
+    },
+    {
+        "id": 50,
+        "categoria": "Geografia",
+        "pregunta": "¿Cuantos países integran el Reino Unido?",
+        "respuestas": [
+            { "rta": "8", "value": false },
+            { "rta": "6", "value": false },
+            { "rta": "5", "value": false },
+            { "rta": "4", "value": true },
+            { "rta": "3", "value": false }
+        ]
+    },
+    {
+        "id": 61,
+        "categoria": "Ciencia",
+        "pregunta": "El petróleo, el gas natural y el carbón son ejemplos de...",
+        "respuestas": [
+            { "rta": "Recursos renovables", "value": false },
+            { "rta": "Combustibles fósiles", "value": true },
+            { "rta": "Recursos intangibles", "value": false },
+            { "rta": "Biocombustibles", "value": false },
+            { "rta": "Recursos geotérmicos", "value": false }
+        ]
+    },
+    {
+        "id": 62,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál de los siguientes casos es un ejemplo de ingeniería genética?",
+        "respuestas": [
+            { "rta": "Unir la raíz de un tipo de planta al tallo de otro tipo de planta.", "value": false },
+            { "rta": "Encontrar las secuencias de las bases del ADN de un planta.", "value": false },
+            { "rta": "Insertar un gen en plantas que las hace resistentes a los insectos.", "value": true },
+            { "rta": "Cultivar una planta a partir de una sola célula.", "value": false },
+            { "rta": "Cultivar una planta a partir de grupo de células.", "value": false }
+        ]
+    },
+    {
+        "id": 63,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la causa principal de las estaciones del año en la Tierra?",
+        "respuestas": [
+            { "rta": "La inclinación del eje de la Tierra en relación con el Sol.", "value": true },
+            { "rta": "La distancia entre la Tierra y el Sol.", "value": false },
+            { "rta": "La próximidad de la Tierra y Marte.", "value": false },
+            { "rta": "La velocidad con que la Tierra gira alrededor del Sol.", "value": false },
+            { "rta": "Los cambios en la cantidad de energía proveniente del Sol.", "value": false }
+        ]
+    },
+    {
+        "id": 64,
+        "categoria": "Ciencia",
+        "pregunta": "Un auto viaja a una velocidad constante de 40 kilómetros por hora. ¿Qué tan lejos habrá llegado en 45 minutos?",
+        "respuestas": [
+            { "rta": "20 kilómetros", "value": false },
+            { "rta": "25 kilómetros", "value": false },
+            { "rta": "30 kilómetros", "value": true },
+            { "rta": "35 kilómetros", "value": false },
+            { "rta": "40 kilómetros", "value": false }
+        ]
+    },
+    {
+        "id": 65,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál de estas afirmaciones es la principal preocupación sobre el uso excesivo de antibióticos?",
+        "respuestas": [
+            { "rta": "Los antibióticos pueden causar infecciones secundarias.", "value": false },
+            { "rta": "Habrá una escasez de antibióticos.", "value": false },
+            { "rta": "Los antibióticos entrarán en el sistema de agua.", "value": false },
+            { "rta": "Puede provocar que las bacterias se vuelvan resistentes a los antibióticos.", "value": true },
+            { "rta": "Puede causar intoxicación en la sangre.", "value": false }
+        ]
+    },
+    {
+        "id": 66,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la velocidad de la luz?",
+        "respuestas": [
+            { "rta": "270.000.000 km/s", "value": false },
+            { "rta": "300.000.000 km/s", "value": true },
+            { "rta": "330.000.000 km/s", "value": false },
+            { "rta": "360.000.000 km/s", "value": false },
+            { "rta": "390.000.000 km/s", "value": false }
+        ]
+    },
+    {
+        "id": 67,
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué capa de la atmósfera nos protege de la radiación solar?",
+        "respuestas": [
+            { "rta": "Exósfera", "value": false },
+            { "rta": "Mesósfera", "value": false },
+            { "rta": "Termósfera", "value": false },
+            { "rta": "Estratósfera", "value": true },
+            { "rta": "Litósfera", "value": false }
+        ]
+    },
+    {
+        "id": 68,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el nombre técnico del miedo o fobia a las alturas?",
+        "respuestas": [
+            { "rta": "Agorafobia", "value": false },
+            { "rta": "Sociofobia", "value": false },
+            { "rta": "Carcinofobia", "value": false },
+            { "rta": "Acrofobia", "value": true },
+            { "rta": "Necrofobia", "value": false }
+        ]
+    },
+    {
+        "id": 69,
+        "categoria": "Ciencia",
+        "pregunta": "La fórmula E=mc2, ¿en qué teoría científica aparece?",
+        "respuestas": [
+            { "rta": "En la teoría cuántica de campos", "value": false },
+            { "rta": "En la teoría de la relatividad general", "value": true },
+            { "rta": "En la teoría hipodérmica", "value": false },
+            { "rta": "En la teoría del electromagnetismo", "value": false },
+            { "rta": "En la teoría funcionalista.", "value": false }
+        ]
+    },
+    {
+        "id": 70,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el principal tipo de célula que forma parte del sistema nervioso de humanos y otros animales?",
+        "respuestas": [
+            { "rta": "Astrocito", "value": false },
+            { "rta": "Microglía", "value": false },
+            { "rta": "Neurona", "value": true },
+            { "rta": "Mitocóndria", "value": false },
+            { "rta": "Oligodendrocitos", "value": false }
+        ]
+    },
+    {
+        "id": 71,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cómo se llama la planta a partir de la cual suele ser elaborado el tequila?",
+        "respuestas": [
+            { "rta": "Albahaca", "value": false },
+            { "rta": "Aloe Vera", "value": false },
+            { "rta": "Aspidistra", "value": false },
+            { "rta": "Agave", "value": true },
+            { "rta": "Areca", "value": false }
+        ]
+    },
+    {
+        "id": 72,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cómo se llama el tipo de célula nerviosa más abundante en el cerebro humano?",
+        "respuestas": [
+            { "rta": "Oligodendrocitos", "value": false },
+            { "rta": "Neurona", "value": false },
+            { "rta": "Astrocito", "value": false },
+            { "rta": "Glial", "value": true },
+            { "rta": "Microglía", "value": false }
+        ]
+    },
+    {
+        "id": 73,
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué animal utilizó el Premio Nobel de medicina Ivan Pavlov en sus experimentos?",
+        "respuestas": [
+            { "rta": "Gatos", "value": false },
+            { "rta": "Roedores", "value": false },
+            { "rta": "Perros", "value": true },
+            { "rta": "Aves", "value": false },
+            { "rta": "Ranas", "value": false }
+        ]
+    },
+    {
+        "id": 74,
+        "categoria": "Ciencia",
+        "pregunta": "¿Quiénes crearon el número 0?",
+        "respuestas": [
+            { "rta": "Los árabes", "value": false },
+            { "rta": "Los chinos", "value": false },
+            { "rta": "Los romanos", "value": false },
+            { "rta": "Los indios", "value": true },
+            { "rta": "Los españoles", "value": false }
+        ]
+    },
+    {
+        "id": 75,
+        "categoria": "Ciencia",
+        "pregunta": "¿Por qué es famoso el cometa Halley?",
+        "respuestas": [
+            { "rta": "Por ser el primer cometa descubierto por el hombre.", "value": false },
+            { "rta": "Por su gran cola de 35º de longitud, de ahí que se conozca como el Gran Cometa.", "value": false },
+            { "rta": "Por pasar muy cerca del planeta Tierra", "value": false },
+            { "rta": "Por ser el primer cometa reconocido con órbita cíclica.", "value": true },
+            { "rta": "Por pasar muy cerca del planeta la Luna", "value": false }
+        ]
+    },
+    {
+        "id": 76,
+        "categoria": "Ciencia",
+        "pregunta": "¿De qué está compuesta la lluvia ácida?",
+        "respuestas": [
+            { "rta": "De ácido sulfúrico y nítrico", "value": false },
+            { "rta": "De ácido nítrico y clorhídrico", "value": false },
+            { "rta": "De ácido sulfúrico y úrico", "value": false },
+            { "rta": "De ácido sulfúrico y ácido nítrico", "value": true },
+            { "rta": "De ácido sulfúrico y ácido clorhídrico", "value": false }
+        ]
+    },
+    {
+        "id": 77,
+        "categoria": "Ciencia",
+        "pregunta": "¿Qué es el complejo de Edipo?",
+        "respuestas": [
+            { "rta": "Miedo a las relaciones románticas", "value": false },
+            { "rta": "Evidencia un sentimiento morboso de celos exagerados", "value": false },
+            { "rta": "Miedo a los gérmenes y bacterias del aire y las superficies de los objetos", "value": false },
+            { "rta": "Evidencia una forma peculiar del complejo de inferioridad en la que se hace cualquier cosa con tal de destacar.", "value": false },
+            { "rta": "Evidencia un sentimiento romántico/sexual del niño hacia la madre, viendo al padre como rival.", "value": true }
+        ]
+    },
+    {
+        "id": 78,
+        "categoria": "Ciencia",
+        "pregunta": "¿De dónde procede la famosa “piedra pómez”?",
+        "respuestas": [
+            { "rta": "Del magma de los volcanes", "value": true },
+            { "rta": "Del fondo del mar", "value": false },
+            { "rta": "De lagos", "value": false },
+            { "rta": "De minas de sal", "value": false },
+            { "rta": "Del interior de un animal", "value": false }
+        ]
+    },
+    {
+        "id": 79,
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el elemento químico más denso?",
+        "respuestas": [
+            { "rta": "Iridio", "value": false },
+            { "rta": "Wolframio", "value": false },
+            { "rta": "Tántalo", "value": false },
+            { "rta": "Osmio", "value": true },
+            { "rta": "Galio", "value": false }
+        ]
+    },
+    {
+        "id": 80,
+        "categoria": "Ciencia",
+        "pregunta": "El dinosaurio más pequeño que existió sobre la faz de la Tierra fue...",
+        "respuestas": [
+            { "rta": "El Compsognathus", "value": true },
+            { "rta": "El Lesothosaurus", "value": false },
+            { "rta": "El Pisanosaurus", "value": false },
+            { "rta": "El Triceratops", "value": false },
+            { "rta": "El Tiranoraurus", "value": false }
+        ]
+    }
+]
